@@ -1,3 +1,3 @@
-# CPD_NTU
-this is a repository that will link and/or show the work I have been doing for my CPD and some interesting projects as well.
-these folder are the result of working on my algorithmic writing of code in python and c++, other projects are also available on public github to showcase work and progress in my CPD
+#VS code Config
+this repo will act as storage for my configuration files for vscode which keeps it minimal and clean
+it will have the settings.json and keybinds.json, when Coding I mainly use my keyboard and shortcuts/keybindings to do stuff.
