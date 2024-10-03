@@ -5,4 +5,4 @@ it will have the settings.json and keybinds.json, when Coding I mainly use my ke
 Reminder that for APC UI++ in the settings.json you will have to have the extension installed for it to work as intended.
 
 Here is an img of how it looks:
-![minimal_vscode](https://github.com/kwame-Owusu/VS-CODE-CONFIG/assets/98961379/66190a05-26f5-4bf6-825f-893ec00eefb7)
+![vscode_min](https://github.com/user-attachments/assets/a8f0c759-5857-48a9-8de1-b73e1c377dd6)
